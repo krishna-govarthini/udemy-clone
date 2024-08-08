@@ -24,7 +24,7 @@ body{
 }
 
 .navbar__middle{
-    width: 60%;
+    width: 25%;
     padding: 10px;
     border-radius: 30px;
     border: solid black 1px;
@@ -48,6 +48,10 @@ body{
     display: flex;
     gap: 15px;
     align-items: center;
+}
+
+.navbar__menu{
+    display: none;
 }
 
 .mylearning{
@@ -99,14 +103,18 @@ body{
     position: relative;
 }
 
+.sec-image img{
+    width: 100%;
+}
+
 .sec-image__offer{
     position: absolute;
-    width: 360px;
+    width: 30%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
     background-color: white;
-    padding: 30px;
-    top: 80px;
-    left: 150px;
+    padding: 2%;
+    top: 10%;
+    left: 10%;
     border: none;
     animation-name: zoom;
     animation-duration: 2s;
@@ -128,11 +136,7 @@ body{
 
 .sec-image__offer h1{
     margin-bottom: 8px;
-    font-size: 40px;
-}
-
-.sec-image img{
-    width: 100%;
+    font-size: 2rem;
 }
 
 .recommended{
@@ -147,7 +151,9 @@ body{
 }
 
 .course-card{
-    width: 300px;
+    flex-grow: 1;
+    flex-basis: 20%;
+    margin-left: 10px;
 }
 
 .course-card p{
@@ -216,3 +222,36 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+
+/* Media Queries */
+
+@media screen and (max-width:800px) {
+    body{
+        font-size: 10px;
+    }
+    .sec-image__offer h1{
+        font-size: 1rem;
+    }
+}
+
+
+
+@media screen and (max-width:600px) {
+    .course-card{
+        flex-basis: 40%;
+    }
+    .categories{
+        display: none;
+    }
+    .navbar__right, .navbar__middle{
+        display: none;
+    }
+    .navbar__menu{
+        display: block;
+    }
+    .sec-image__offer h1{
+        font-size: 1rem;
+    }
+}
+
+
