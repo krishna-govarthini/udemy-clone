@@ -14,12 +14,14 @@ This is a Udemy clone created as part of my FSDW course by Error Makes Clever Ac
 - **Recommended and Popular Courses:** Displays course cards with images, titles, ratings, and prices.
 - **Topics Section:** Shows a grid of recommended topics for users to explore.
 - **Course Card Design:** Features detailed course cards with images, titles, instructors, ratings, and pricing information.
+- **CSS Positioning:** Utilized different CSS positioning techniques (relative, absolute, and sticky) to create a dynamic and responsive layout.
+- **Animation:** Implemented a zoom animation for promotional content to grab user attention.
+- **Responsive Design:** Used media queries to ensure the website looks great on various screen sizes, including mobile devices.
 
 ## Check It Out
 
-You can view the live site  https://krishna-govarthini.github.io/udemy-clone/
+You can view the live site [here](https://krishna-govarthini.github.io/udemy-clone/).
 
-Feel free to reach out if you encounter any issues or have any questions.
+Feel free to reach out if you encounter any issues or questions.
 
 Thank you for visiting!
-
