@@ -20,7 +20,7 @@ This is a Udemy clone created as part of my FSDW course by Error Makes Clever Ac
 
 ## Check It Out
 
-You can view the live site [here](https://krishna-govarthini.github.io/udemy-clone/).
+You can view the live site (https://krishna-govarthini.github.io/udemy-clone/).
 
 Feel free to reach out if you encounter any issues or questions.
 
