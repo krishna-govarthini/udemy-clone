@@ -1,6 +1,6 @@
 # Udemy Clone Project 🎓
 
-This is a Udemy clone created as part of my FSDW course by Error Makes Clever Academy to demonstrate the use of HTML and CSS. The project replicates the basic layout and design of the Udemy homepage, focusing on understanding HTML tags and CSS properties.
+This is a Udemy clone created as part of my Full Stack Development course to demonstrate the use of HTML and CSS. The project replicates the basic layout and design of the Udemy homepage, focusing on understanding HTML tags and CSS properties.
 
 ## Overview 🔍
 
