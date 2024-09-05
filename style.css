@@ -250,33 +250,21 @@ body{
         display: block;
     }
     .sec-image__offer h1{
-        font-size: .5rem;
+        font-size: .75rem;
     }
     .sec-image__offer p{
-        font-size: .5rem;
+        font-size: .25rem;
     }
 }
 
 
 
 @media screen and (max-width:450px) {
-    .course-card{
-        flex-basis: 30%;
-    }
-    .categories{
-        display: none;
-    }
-    .navbar__right, .navbar__middle{
-        display: none;
-    }
-    .navbar__menu{
-        display: block;
-    }
     .sec-image__offer h1{
-        font-size: .5rem;
+        font-size: .25rem;
     }
     .sec-image__offer p{
-        font-size: .55rem;
+        font-size: .15rem;
     }
 }
 
