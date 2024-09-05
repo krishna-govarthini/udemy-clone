@@ -235,7 +235,6 @@ body{
 }
 
 
-
 @media screen and (max-width:600px) {
     .course-card{
         flex-basis: 40%;
@@ -249,12 +248,8 @@ body{
     .navbar__menu{
         display: block;
     }
-}
-
-@media screen and (max-width:400px) {
-    .course-card{
-        flex-basis: 55%;
-        flex-wrap: wrap;
+    .sec-image__offer h1{
+        font-size: 1rem;
     }
 }
 
