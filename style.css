@@ -252,9 +252,6 @@ body{
     .sec-image__offer h1{
         font-size: 18px;
     }
-    .sec-image__offer p{
-        font-size: 16px;
-    }
 }
 
 @media screen and (max-width:400px) {
