@@ -257,4 +257,10 @@ body{
     }
 }
 
+@media screen and (max-width:400px) {
+    .course-card{
+        flex-basis: 40%;
+        flex-wrap: wrap;
+    }
+}
 
