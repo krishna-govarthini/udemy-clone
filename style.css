@@ -239,8 +239,7 @@ body{
 
 @media screen and (max-width:600px) {
     .course-card{
-        flex-basis: 15%;
-        flex-grow: 0;
+        flex-basis: 40%;
     }
     .categories{
         display: none;
