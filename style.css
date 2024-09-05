@@ -252,21 +252,12 @@ body{
         display: block;
     }
     .sec-image__offer h1{
-        font-size: .75rem;
+        font-size: 14px;
     }
     .sec-image__offer p{
-        font-size: .25rem;
+        font-size: 12px,
     }
 }
 
 
-
-@media screen and (max-width:450px) {
-    .sec-image__offer h1{
-        font-size: .25rem;
-    }
-    .sec-image__offer p{
-        font-size: .15rem;
-    }
-}
 
