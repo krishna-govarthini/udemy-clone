@@ -259,7 +259,7 @@ body{
 
 
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:450px) {
     .course-card{
         flex-basis: 30%;
     }
@@ -273,10 +273,10 @@ body{
         display: block;
     }
     .sec-image__offer h1{
-        font-size: .25rem;
+        font-size: .5rem;
     }
     .sec-image__offer p{
-        font-size: .25rem;
+        font-size: .55rem;
     }
 }
 
